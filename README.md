@@ -39,6 +39,10 @@ O mapa 2D possui colisores invisíveis (Tilesets) que alteram o estado da aplica
 - Zonas Privadas: Ao entrar em uma sala demarcada, o usuário só escuta e vê quem também está na sala, ignorando o raio de distância padrão.
 - Telas de Apresentação: Objetos no mapa que, ao serem ativados, permitem que um usuário inicie o compartilhamento da tela do seu computador para todos na sala.
 
+<img width="2752" height="1536" alt="1 (1)" src="https://github.com/user-attachments/assets/95a87c21-2491-4b0c-9380-f8a346484cc3" />
+<img width="2752" height="1536" alt="1 (2)" src="https://github.com/user-attachments/assets/097a846b-899f-4f38-bf24-492713c26617" />
+
+
 ---
 
 ## 4. Levantamento de Requisitos
